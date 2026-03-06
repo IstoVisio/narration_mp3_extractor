@@ -7,3 +7,5 @@ To use:
 4. Run `pip install -r requirements.txt`
 5. Place the narrations in the narrations folder.
 6. Run `python narration_mp3_extractor.py`
+
+Note: This json is similar, but not the same as the json used in syGlass Pro
