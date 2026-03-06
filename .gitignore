@@ -1,0 +1,5 @@
+venv
+**.pyc
+audio_files
+narrations
+**.syp
